@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/konstantin/Desktop/claude1/dz-portfolio/app/layout":["static/media/48e2044251ef3125-s.p.woff2","static/media/904be59b21bd51cb-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';

@@ -1,7 +1,0 @@
-{
-  "/api/reviews/route": "/api/reviews",
-  "/_not-found/page": "/_not-found",
-  "/api/telegram-webhook/route": "/api/telegram-webhook",
-  "/page": "/",
-  "/reviews/page": "/reviews"
-}
