@@ -1,0 +1,51 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-780c33ff7dc45b3b.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ddbe611fee40ee0d.js",
+      "static/chunks/main-app-cd45fabb59977abf.js",
+      "static/chunks/app/_not-found/page-eb55dbd97e50e580.js"
+    ],
+    "/api/reviews/route": [
+      "static/chunks/webpack-780c33ff7dc45b3b.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ddbe611fee40ee0d.js",
+      "static/chunks/main-app-cd45fabb59977abf.js",
+      "static/chunks/app/api/reviews/route-825558036da708f0.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-780c33ff7dc45b3b.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ddbe611fee40ee0d.js",
+      "static/chunks/main-app-cd45fabb59977abf.js",
+      "static/css/a566635f9c8fb2d9.css",
+      "static/chunks/app/layout-164e575d0f87aef3.js"
+    ],
+    "/api/telegram-webhook/route": [
+      "static/chunks/webpack-780c33ff7dc45b3b.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ddbe611fee40ee0d.js",
+      "static/chunks/main-app-cd45fabb59977abf.js",
+      "static/chunks/app/api/telegram-webhook/route-825558036da708f0.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-780c33ff7dc45b3b.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ddbe611fee40ee0d.js",
+      "static/chunks/main-app-cd45fabb59977abf.js",
+      "static/chunks/855-8a1c1a2c7de519b1.js",
+      "static/chunks/503-5f6ac305beb3bfb8.js",
+      "static/chunks/app/page-44dd115751855d5a.js"
+    ],
+    "/reviews/page": [
+      "static/chunks/webpack-780c33ff7dc45b3b.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-ddbe611fee40ee0d.js",
+      "static/chunks/main-app-cd45fabb59977abf.js",
+      "static/chunks/855-8a1c1a2c7de519b1.js",
+      "static/chunks/503-5f6ac305beb3bfb8.js",
+      "static/chunks/app/reviews/page-f1e0a6b0d0e3e6b6.js"
+    ]
+  }
+}
